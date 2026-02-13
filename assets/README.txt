@@ -1,0 +1,1 @@
+Replace 'your-image.jpg' with your own image and keep the same filename.
